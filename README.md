@@ -1,4 +1,4 @@
-# 🎨 REA-Powerpoint
+# 🎨 ppt-remix
 
 **Steal the look *and* the motion of any PowerPoint — then rebuild it for your own topic.**
 
